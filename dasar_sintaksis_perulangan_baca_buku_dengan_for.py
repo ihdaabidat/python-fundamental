@@ -1,7 +1,7 @@
 """
 Program perulangan membaca buku
 """
-jumlah_buku = 100
+jumlah_buku = 99
 print('Ibu berkata, "Baca semua bukumu"')
 
 jumlah_buku_sudah_dibaca = 0
