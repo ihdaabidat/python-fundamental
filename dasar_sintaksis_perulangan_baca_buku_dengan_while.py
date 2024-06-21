@@ -1,7 +1,7 @@
 """
 Program perulangan dengan while
 """
-jumlah_buku = 10
+jumlah_buku = 11
 print('Ibu berkata, "Baca semua bukumu"')
 
 jumlah_buku_sudah_dibaca = 0
