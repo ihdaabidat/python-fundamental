@@ -2,6 +2,7 @@
 1. Sekunsial: langkah berurutan
 2. Percabangan: langkah melompat jika kondisi terpenuhi
 3. Perulangan: mengulang langkah yang sama berkali-kali selama/sampai kondisi terpenuhi
+Semangat ngoding idatt
 """
 
 
