@@ -83,7 +83,7 @@ for i in range(0, len(daftar_buku)):
 
 print('\nPerintah del dengan List comprehension start -1')
 daftar_buku = ['Seven Habits', 'How to Influence People', 'First Things First', '4DX']
-del daftar_buku[0:-2] #START:ENDD
+del daftar_buku[0:-2] #START:END
 for i in range(0, len(daftar_buku)):
     print(daftar_buku[i])
 
