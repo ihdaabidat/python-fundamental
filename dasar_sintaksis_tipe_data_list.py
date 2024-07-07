@@ -99,3 +99,7 @@ del daftar_buku[0::2] #START:END:STEPPPP
 for i in range(0, len(daftar_buku)):
     print(daftar_buku[i])
 
+for i in range(0, len(daftar_buku)):
+    print(daftar_buku[i])
+
+
