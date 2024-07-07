@@ -92,14 +92,3 @@ daftar_buku = ['Seven Habits', 'How to Influence People', 'First Things First']
 del daftar_buku[0::2] #START:END:STEP
 for i in range(0, len(daftar_buku)):
     print(daftar_buku[i])
-
-print('\nPerintah del dengan List comprehension start:end:step')
-daftar_buku = ['Seven Habits', 'How to Influence People', 'First Things First']
-del daftar_buku[0::2] #START:END:STEPPPP
-for i in range(0, len(daftar_buku)):
-    print(daftar_buku[i])
-
-for i in range(0, len(daftar_buku)):
-    print(daftar_buku[i])
-
-
