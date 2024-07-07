@@ -40,9 +40,3 @@ print('\nMembuat list baru')
 del daftar_buku[:]
 for i in range(0, len(daftar_buku_baru)):
     print(daftar_buku_baru[i])
-
-# meskipun daftar_buku dihapus tapi daftar_buku_baru itu sudah menjadi list yang terpisah sehingga dia ga akan terpengaruh (tempatnya udah berbeda)
-print('\nMembuat list baru')
-del daftar_buku[:]
-for i in range(0, len(daftar_buku_baru)):
-    print(daftar_buku_baru[i])
